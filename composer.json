@@ -1,0 +1,18 @@
+{
+    "name": "zhengbingdong/easy-tools",
+    "description": "php toolds array.",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zhengbingdong\\EasyTools\\": "src"
+        }
+    },
+    "license": "MIT",
+    "authors": [{
+        "name": "zhengbingdong",
+        "email": "1529903642@qq.com"
+    }]
+}
