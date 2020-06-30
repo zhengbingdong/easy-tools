@@ -7,7 +7,7 @@ $ composer require zhengbingdong/easy-tools
 ```
 
 ## 使用
-    use Zhengbingdong\EasyTools\EasyTools;
+    use Zhengbingdong\EasyDateTools\EasyDateTools;
 	
 ## License
 **MIT**
