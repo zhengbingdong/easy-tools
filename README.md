@@ -6,7 +6,7 @@
 $ composer require zhengbingdong/easy-tools
 ```
 
-## 使用
+## 时间工具使用
     use Zhengbingdong\EasyDateTools\EasyDateTools;
 	
 ## License
