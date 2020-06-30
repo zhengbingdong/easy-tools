@@ -1,6 +1,6 @@
 {
     "name": "zhengbingdong/easy-tools",
-    "description": "php toolds array.",
+    "description": "php常用工具函数集合",
     "type": "library",
     "require": {
         "php": ">=7.0"
