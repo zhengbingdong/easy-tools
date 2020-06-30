@@ -46,7 +46,7 @@ class EasyTools{
      * @param string $lang $lang 语言, cn 中文, en 英文
      * @return bool|string
      */
-    public static function get_friend_date($time, $lang = 'cn')
+    public static function getFriendDate($time, $lang = 'cn')
     {
         if (!$time) {
             return '';
@@ -179,7 +179,7 @@ class EasyTools{
      * @param string $lang 语言, cn 中文, en 英文
      * @return mixed
      */
-    public static function get_week_day($timestamp, $lang = 'cn')
+    public static function getWeekDay($timestamp, $lang = 'cn')
     {
 
         if ($lang == 'cn') {
@@ -198,7 +198,7 @@ class EasyTools{
      * @param string $lang cn 中文, en 英语
      * @return string
      */
-    public static function get_month($timestamp, $lang = 'cn'){
+    public static function getMonth($timestamp, $lang = 'cn'){
 
         if($lang == 'cn'){
             $month_arr = array(
