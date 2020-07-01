@@ -7,7 +7,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Zhengbingdong\\EasyTools\\": "src"
+            "zhengbingdong\\": "src"
         }
     },
     "license": "MIT",
