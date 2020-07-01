@@ -4,8 +4,7 @@
 <a href="http://www.qianduanwang.vip" target="_blank">共享屋素材</a>
 
 ## 更多分享信息内容请关注我的公众号：程序猿的栖息地
-![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
-u=702257389,1274025419&fm=27&gp=0.jpg "程序猿的栖息地")
+![avatar](/home/picture/1.png)
 
 ## 安装
 
