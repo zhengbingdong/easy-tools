@@ -1,4 +1,4 @@
-<h1 align="left"> PHP工具类</h1>
+<h1 align="left"> PHP工具类 <span>持续更新中</span></h1>
 
 ## 安装
 
@@ -46,8 +46,69 @@ $ composer require zhengbingdong/easy-tools
 
 ## 数组工具类
     use Zhengbingdong\EasyTools\ArrayTools;
-    更新中
-	
+    更新中...
+
+## 英文字母工具类
+    use Zhengbingdong\EasyTools\CharacterTools;
+    更新中...
+
+## url相关的工具类
+    use Zhengbingdong\EasyTools\CurlsTools;
+    更新中...
+
+## 文件工具类
+    use Zhengbingdong\EasyTools\FileTools;
+    更新中...
+
+## http协议相关的工具类
+    use Zhengbingdong\EasyTools\HttpTools;
+    更新中...
+
+## 图片工具类
+    use Zhengbingdong\EasyTools\ImageTools;
+    更新中...
+
+## 日志工具类
+    use Zhengbingdong\EasyTools\LogTools;
+    更新中...
+
+## 地图工具类
+    use Zhengbingdong\EasyTools\MapTools;
+    更新中...
+
+## 数字工具类
+    use Zhengbingdong\EasyTools\NumberTools;
+    更新中...	
+
+## 服务器相关的工具类
+    use Zhengbingdong\EasyTools\ServerTools;
+    更新中...
+
+## 敏感字符串工具类
+    use Zhengbingdong\EasyTools\StrFilterTools;
+    更新中...
+
+## 字符串相关操作的工具类
+    use Zhengbingdong\EasyTools\StringTools;
+    更新中...
+
+## 上传文件工具类
+    use Zhengbingdong\EasyTools\UploadTools;
+    更新中...
+
+## 校验工具类，如验证ip、手机、邮箱等
+    use Zhengbingdong\EasyTools\VerifyTools;
+    更新中...
+
+## app版本校验工具类
+    use Zhengbingdong\EasyTools\VersionTools;
+    更新中...
+
+## 操作xml相关的工具类
+    use Zhengbingdong\EasyTools\XmlTools;
+    更新中...
+
+
 ## License
 **MIT**
 
