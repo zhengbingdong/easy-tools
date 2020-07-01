@@ -1,6 +1,6 @@
 {
     "name": "zhengbingdong/easy-tools",
-    "description": "php常用工具函数集合",
+    "description": "PHP常用工具类，包含：时间类，Zip压缩解压类，数组类，英文字母类，url相关类，文件类，http协议相关类，图片类，日志类，地图类，数字类，服务器相关类，校验类，上传文件类，字符串相关操作的类，敏感字符串类，app版本校验类，操作xml类",
     "type": "library",
     "require": {
         "php": ">=7.0"
