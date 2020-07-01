@@ -1,6 +1,6 @@
 <h1 align="left"> PHP工具类 <code align="right">持续更新中</code></h1>
 
-##### <code>时间工具类</code>、Zip压缩解压工具类、数组工具类、英文字母工具类、url相关的工具类、文件工具类、http协议相关的工具类、图片工具类、日志工具类、地图工具类、数字工具类、服务器相关的工具类、敏感字符串工具类、字符串相关操作的工具类、上传文件工具类、校验工具类，如验证ip、手机、邮箱等、app版本校验工具类、操作xml相关的工具类、等等
+##### <code>时间工具类</code>、<code>Zip压缩解压工具类</code>、<code>数组工具类</code>、<code>英文字母工具类</code>、<code>url相关的工具类</code>、<code>文件工具类</code>、<code>http协议相关的工具类</code>、<code>图片工具类</code>、<code>日志工具类</code>、<code>地图工具类</code>、<code>数字工具类</code>、<code>服务器相关的工具类</code>、<code>敏感字符串工具类</code>、<code>字符串相关操作的工具类</code>、<code>上传文件工具类</code>、<code>校验工具类</code>，<code>如验证ip、手机、邮箱等</code>、<code>app版本校验工具类</code>、<code>操作xml相关的工具类</code>、等等
 
 ## 官网
 <a href="http://www.qianduanwang.vip" target="_blank">共享屋素材</a>
