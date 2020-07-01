@@ -7,7 +7,7 @@ namespace Zhengbingdong\EasyTools;
  * Class DateTools
  */
 
-class EasyDateTools{
+class EasyTools{
 
     /**
      * @desc 得到某天凌晨零点的时间戳
