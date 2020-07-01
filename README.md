@@ -27,17 +27,22 @@ $ composer require zhengbingdong/easy-tools
     对相应目录文件进行压缩 ：ZipTools::addFileToZip()
 
     #事例
-    //    使用示例
-    //    $zip = new ZipArchive();
-    //    $path = $_SERVER['DOCUMENT_ROOT'];
-    //    $zipName = $_SERVER['DOCUMENT_ROOT']."/20180826.zip";
-    //
-    //    if($zip->open($zipName, ZipArchive::CREATE) === TRUE){
-    //    addFileToZip($path, $zip); // 调用方法，对要打包的根目录进行操作，并将ZipArchive的对象传递给方法
-    //    $zip->close(); // 关闭处理的zip文件
-    //    }
+    使用示例
+    $zip = new ZipArchive();
+    $path = $_SERVER['DOCUMENT_ROOT'];
+    $zipName = $_SERVER['DOCUMENT_ROOT']."/20180826.zip";
+    if($zip->open($zipName, ZipArchive::CREATE) === TRUE){
+    	addFileToZip($path, $zip); // 调用方法，对要打包的根目录进行操作，并将ZipArchive的对象传递给方法
+    	$zip->close(); // 关闭处理的zip文件
+    }
 
     从zip压缩文件中提取文件 ：ZipTools::unZip()
+
+    # 事例
+    使用示例：
+    $filename = $_SERVER['DOCUMENT_ROOT'].'/unzip.zip';
+    $path = $_SERVER['DOCUMENT_ROOT'].'/unzip';
+    unZip($filename,$path );
 
 	
 ## License
