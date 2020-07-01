@@ -1,4 +1,4 @@
-<h1 align="left"> PHP工具类 <span>持续更新中</span></h1>
+<h1 align="left"> PHP工具类 <code>持续更新中</code></h1>
 
 ## 安装
 
