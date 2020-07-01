@@ -1,5 +1,10 @@
 <h1 align="left"> PHP工具类 <code align="right">持续更新中</code></h1>
 
+[![Latest Stable Version](https://poser.pugx.org/zoujingli/pay-php-sdk/v/stable)](https://packagist.org/packages/zoujingli/pay-php-sdk)
+[![Total Downloads](https://poser.pugx.org/zoujingli/pay-php-sdk/downloads)](https://packagist.org/packages/zoujingli/pay-php-sdk)
+[![Latest Unstable Version](https://poser.pugx.org/zoujingli/pay-php-sdk/v/unstable)](https://packagist.org/packages/zoujingli/pay-php-sdk)
+[![License](https://poser.pugx.org/zoujingli/pay-php-sdk/license)](https://packagist.org/packages/zoujingli/pay-php-sdk)
+
 ##### <code>时间工具类</code>、<code>Zip压缩解压工具类</code>、<code>数组工具类</code>、<code>英文字母工具类</code>、<code>url相关的工具类</code>、<code>文件工具类</code>
 ##### <code>日志工具类</code>、<code>地图工具类</code>、<code>数字工具类</code>、<code>服务器相关的工具类</code>、<code>敏感字符串工具类</code>、<code>字符串相关操作的工具类</code>、<code>上传文件工具类</code>、<code>校验工具类</code>
 ##### <code>验证类</code>、<code>app版本校验工具类</code>、<code>操作xml相关的工具类</code>、<code>图片工具类</code>、<code>http协议相关的工具类</code>
