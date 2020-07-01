@@ -3,6 +3,10 @@
 ## 官网
 <a href="http://www.qianduanwang.vip" target="_blank">共享屋素材</a>
 
+## 更多分享信息内容请关注我的公众号：程序猿的栖息地
+![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
+u=702257389,1274025419&fm=27&gp=0.jpg "程序猿的栖息地")
+
 ## 安装
 
 ```shell
@@ -31,7 +35,6 @@ $ composer require zhengbingdong/easy-tools
 
     #事例
     使用示例
-    (```)
     $zip = new ZipArchive();
     $path = $_SERVER['DOCUMENT_ROOT'];
     $zipName = $_SERVER['DOCUMENT_ROOT']."/20180826.zip";
@@ -39,7 +42,6 @@ $ composer require zhengbingdong/easy-tools
     	addFileToZip($path, $zip); // 调用方法，对要打包的根目录进行操作，并将ZipArchive的对象传递给方法
     	$zip->close(); // 关闭处理的zip文件
     }
-    (```)
     从zip压缩文件中提取文件 ：ZipTools::unZip()
 
     # 事例
