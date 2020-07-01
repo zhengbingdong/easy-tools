@@ -1,13 +1,13 @@
 <?php
 
-namespace zhengbingdong;
+namespace Zhengbingdong\EasyTools;
 
 /**
  * 时间工具类
  * Class DateTools
  */
 
-class EasyTools{
+class Dates{
 
     /**
      * @desc 得到某天凌晨零点的时间戳
