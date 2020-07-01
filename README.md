@@ -1,9 +1,9 @@
 <h1 align="left"> PHP工具类 <code align="right">持续更新中</code></h1>
 
-[![Latest Stable Version](https://packagist.org/packages/zhengbingdong/easy-tools)](https://packagist.org/packages/zhengbingdong/easy-tools)
-[![Total Downloads](https://packagist.org/packages/zhengbingdong/easy-tools)](https://packagist.org/packages/zhengbingdong/easy-tools)
-[![Latest Unstable Version](https://packagist.org/packages/zhengbingdong/easy-tools)](https://packagist.org/packages/zhengbingdong/easy-tools)
-[![License](https://packagist.org/packages/zhengbingdong/easy-tools)](https://packagist.org/packages/zhengbingdong/easy-tools)
+[![Latest Stable Version](https://poser.pugx.org/zoujingli/pay-php-sdk/v/stable)](https://packagist.org/packages/zhengbingdong/easy-tools)
+[![Total Downloads](https://poser.pugx.org/zoujingli/pay-php-sdk/downloads)](https://packagist.org/packages/zhengbingdong/easy-tools)
+[![Latest Unstable Version](https://poser.pugx.org/zoujingli/pay-php-sdk/v/unstable)](https://packagist.org/packages/zhengbingdong/easy-tools)
+[![License](https://poser.pugx.org/zoujingli/pay-php-sdk/license)](https://packagist.org/packages/zhengbingdong/easy-tools)
 
 ##### <code>时间工具类</code>、<code>Zip压缩解压工具类</code>、<code>数组工具类</code>、<code>英文字母工具类</code>、<code>url相关的工具类</code>、<code>文件工具类</code>
 ##### <code>日志工具类</code>、<code>地图工具类</code>、<code>数字工具类</code>、<code>服务器相关的工具类</code>、<code>敏感字符串工具类</code>、<code>字符串相关操作的工具类</code>、<code>上传文件工具类</code>、<code>校验工具类</code>
