@@ -1,6 +1,6 @@
 <?php
 
-namespace Zhengbingdong\EasyTools;
+namespace zhengbingdong;
 
 /**
  * 时间工具类
