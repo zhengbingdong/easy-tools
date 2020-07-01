@@ -39,7 +39,7 @@ $ composer require zhengbingdong/easy-tools
     #事例
     使用示例
     
-    ～～～
+```
     $zip = new ZipArchive();
     $path = $_SERVER['DOCUMENT_ROOT'];
     $zipName = $_SERVER['DOCUMENT_ROOT']."/20180826.zip";
@@ -47,7 +47,7 @@ $ composer require zhengbingdong/easy-tools
     	addFileToZip($path, $zip); // 调用方法，对要打包的根目录进行操作，并将ZipArchive的对象传递给方法
     	$zip->close(); // 关闭处理的zip文件
     }
-    ～～～
+```
     
     从zip压缩文件中提取文件 ：ZipTools::unZip()
 
