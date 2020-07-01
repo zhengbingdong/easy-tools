@@ -44,6 +44,9 @@ $ composer require zhengbingdong/easy-tools
     $path = $_SERVER['DOCUMENT_ROOT'].'/unzip';
     unZip($filename,$path );
 
+## 数组工具类
+    use Zhengbingdong\EasyTools\ArrayTools;
+    更新中
 	
 ## License
 **MIT**
