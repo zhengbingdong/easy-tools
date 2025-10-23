@@ -10,10 +10,10 @@
 ##### <code>验证类</code>、<code>app版本校验工具类</code>、<code>操作xml相关的工具类</code>、<code>图片工具类</code>、<code>http协议相关的工具类</code>
 
 ## 官网
-<a href="http://www.qianduanwang.vip" target="_blank">共享屋素材</a>
+<a href="https://zhengbingdong.com" target="_blank">共享屋素材</a>
 
 ## 更多分享信息内容请关注我的公众号：程序猿的栖息地
-![程序猿的栖息地](http://www.qianduanwang.vip/uploads/layedit/20200701/3bc47221b2cc967887b9e7f661d21e2c.jpg)
+![程序猿的栖息地](https://pic.zhengbingdong.com/topic/20231102/09ca8dff1123c9e96badb5500604b86c.jpg)
 
 ## 安装
 
